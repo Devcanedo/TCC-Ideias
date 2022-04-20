@@ -23,3 +23,15 @@
  -- Routes
     - NavBar vai ser por Routes(nao teremos Scroll no site). Quando clicamos para
       ir a page de Applications a url usará uma '/Applications' e assim por diante.
+      
+      
+////////////////////////////////// __Ferramentas__ //////////////////////////////////
+
+  -- Linguagens
+     - TypeScrip/React(Frotend)
+     - Node.js(backend)
+     - FireBase()
+     
+  -- Design
+     - Photoshop
+     - Figma
